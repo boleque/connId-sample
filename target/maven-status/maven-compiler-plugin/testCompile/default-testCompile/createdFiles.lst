@@ -1,0 +1,9 @@
+com/evolveum/polygon/connector/training/rest/UpdateTest.class
+com/evolveum/polygon/connector/training/rest/TestOpTest.class
+com/evolveum/polygon/connector/training/rest/SyncTest.class
+com/evolveum/polygon/connector/training/rest/BaseTest.class
+com/evolveum/polygon/connector/training/rest/ListResultHandler.class
+com/evolveum/polygon/connector/training/rest/DeleteTest.class
+com/evolveum/polygon/connector/training/rest/SearchTest.class
+com/evolveum/polygon/connector/training/rest/TestSyncResultsHandler.class
+com/evolveum/polygon/connector/training/rest/AddTest.class
